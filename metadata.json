@@ -1,0 +1,5 @@
+{
+  "name": "Smart Scheduler",
+  "description": "An intelligent daily planner that automatically schedules tasks based on priority, buffers, and available gaps using the 'Smart' algorithm.",
+  "requestFramePermissions": []
+}
